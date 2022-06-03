@@ -35,7 +35,7 @@
             </a>
         </div>
     </div>
-    <p class="footer__texto">JoJoComics. Todos los Derechos Reservados 2021 ©</p>
+    <p class="footer__texto">JoJoComics. Todos los Derechos Reservados 2022 ©</p>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
